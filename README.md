@@ -1,3 +1,4 @@
 # DB Lab 3 (Neo4j)
+[![Build Status](https://travis-ci.org/Arriven/DBLab3.svg?branch=master)](https://travis-ci.org/Arriven/DBLab3)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/084f9944767a411bb26b6603c9e7d2cc)](https://www.codacy.com/app/Arriven/DBLab3?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Arriven/DBLab3&amp;utm_campaign=Badge_Grade)
 [![Codacy Badge](https://api.codacy.com/project/badge/Coverage/084f9944767a411bb26b6603c9e7d2cc)](https://www.codacy.com/app/Arriven/DBLab3?utm_source=github.com&utm_medium=referral&utm_content=Arriven/DBLab3&utm_campaign=Badge_Coverage)
